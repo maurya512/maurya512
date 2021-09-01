@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently Full Stack Chat Application using the Stream Chat API.
+- 🔭 I’m currently working on a Full Stack Chat Application using the Stream Chat API.
 - 🌱 I’m currently learning everything 😄
 - 👯 I’m looking to collaborate on any type of Web Development projects.
 - 🤔 I’m looking for help with ReactJS and other frameworks.
